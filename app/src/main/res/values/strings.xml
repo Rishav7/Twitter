@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">pWcfT2n49X7Y7oz0nOud7ayLGtCUmARCp52g88vP</string>
+    <string name="back4app_client_key">uVBcamBX5jEmoZhuYxzcl8Hx9rIFjybFrIbctAeC</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="user_password">user password</string>
+
+</resources>
